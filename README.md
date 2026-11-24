@@ -107,7 +107,7 @@ Para voltar aos dados iniciais, limpe o armazenamento do site nas ferramentas de
 
 ## 👤 Autor
 
-**Derick Alves Maschio**
+**Isabella Nicoliche Silva**
 Sistemas de Informação — Universidade de Mogi das Cruzes (UMC)
 
 ---
